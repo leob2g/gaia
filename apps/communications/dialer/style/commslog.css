@@ -252,3 +252,7 @@ ul[role="tablist"][data-type="filter"] > [role="tab"].selected > a {
 #add-contact-action-menu.visible {
   display: inline;
 }
+
+#li-modify-line {
+  display: none;
+}
